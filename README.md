@@ -1,4 +1,4 @@
-# EFi-Haswell-Desktop-BS
+# EFi-Haswell-Desktop-BS-OPENCOPRE-0.7.1
 
 
 Buenas, Comparto EFI, Haswell Desktop OPENCORE 0.7.1 De la Fecha 25/06/21...
