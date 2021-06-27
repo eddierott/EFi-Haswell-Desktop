@@ -1,3 +1,0 @@
-# EFi-Haswell-Desktop
-
-geinal... 
